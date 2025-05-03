@@ -4,7 +4,7 @@ permalink: "/activities/"
 layout: page
 ---
 
-## 🏫 Student Activities
+## Student Activities
 
 ### Georgia Tech Investments Committee  
 **Role:** Sector Head – Media and Telecom  
