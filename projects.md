@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: page
 ---
 
-## 🛠 Projects
+## Projects
 
 ### Client Name Mapping System  
 **Role:** Developer | **Tools:** Python, VBA  
