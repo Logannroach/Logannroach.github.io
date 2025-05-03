@@ -6,7 +6,7 @@ layout: page
 
 ## 📄 My CV
 
-<iframe src="/assets/cv.pdf" width="100%" height="900px" style="border: none;">
+<iframe src="/assets/Logan_Roach_CV.pdf" width="100%" height="900px" style="border: none;">
     This browser does not support PDFs. Please download it directly:
     <a href="/assets/cv.pdf">Download CV</a>.
 </iframe>
