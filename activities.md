@@ -1,9 +1,3 @@
----
-title: "Student Activities"
-permalink: "/activities/"
-layout: page
----
-
 ## Student Activities
 
 ### Georgia Tech Investments Committee  
