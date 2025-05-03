@@ -1,9 +1,3 @@
----
-title: "Projects"
-permalink: "/projects/"
-layout: page
----
-
 ### Client Name Mapping System  
 **Role:** Developer | **Tools:** Python, VBA  
 **Timeline:** Jan 2022 – Present  
