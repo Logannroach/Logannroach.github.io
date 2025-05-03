@@ -4,8 +4,6 @@ permalink: "/projects/"
 layout: page
 ---
 
-## Projects
-
 ### Client Name Mapping System  
 **Role:** Developer | **Tools:** Python, VBA  
 **Timeline:** Jan 2022 – Present  
