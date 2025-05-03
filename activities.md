@@ -1,5 +1,3 @@
-## Student Activities
-
 ### Georgia Tech Investments Committee  
 **Role:** Sector Head – Media and Telecom  
 **Dates:** Jan 2022 – Present
