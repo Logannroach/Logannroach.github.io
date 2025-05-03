@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<img src="/assets/headshot.jpg" alt="Logan Roach Headshot" style="max-width: 200px; border-radius: 50%; margin-bottom: 20px;">
+<img src="/assets/Logan Roach Headshot.JPG" alt="Logan Roach Headshot" style="max-width: 200px; border-radius: 50%; margin-bottom: 20px;">
 
 ## Hello, I’m Logan Roach 👋
 
