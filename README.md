@@ -26,7 +26,8 @@ My work blends financial rigor with technical fluency, and I’m passionate abou
 
 ## 📄 Download My CV
 
-[Click here to download my full CV (PDF)](/assets/Logan_Roach_CV.pdf)
+[Download CV (Direct Link)](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/Logan_Roach_CV.pdf)
+
 
 
 ---
