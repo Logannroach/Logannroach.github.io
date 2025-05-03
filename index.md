@@ -26,7 +26,8 @@ My work blends financial rigor with technical fluency, and I’m passionate abou
 
 ## 📄 Download My CV
 
-[Click here to download my full CV (PDF)](/assets/cv.pdf)
+<a href="/assets/cv.pdf" download>📄 Download My CV (PDF)</a>
+
 
 
 
